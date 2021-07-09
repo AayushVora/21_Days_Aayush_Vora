@@ -5,3 +5,4 @@ Day 1: Python Basics
         -->Condional and loops-->conditional.py,loop(fibonacci).py
 Day 2: python data structures
         -->Revised data structures 
+Day 3:  -->File handling,Functions and numpy (Theories)
