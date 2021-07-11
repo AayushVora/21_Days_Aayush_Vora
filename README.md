@@ -7,3 +7,4 @@ Day 2: python data structures
         -->Revised data structures 
 Day 3:  -->File handling,Functions and numpy (Theories)
 Day 4:  -->Looked up Pandas Data frame and series
+Day 5:  -->Pandas dataframe 
