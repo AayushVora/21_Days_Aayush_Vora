@@ -11,3 +11,4 @@ Day 5:  -->Pandas dataframe
 Day 6:  -->Numpy arrays and Vectors theories
 Day 7:  -->matplotlib
 day 8:  -->matplotlib,pandas
+day 9:  -->started working with titanic classification project,and revising what i have done so far 
