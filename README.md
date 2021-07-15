@@ -10,3 +10,4 @@ Day 4:  -->Looked up Pandas Data frame and series
 Day 5:  -->Pandas dataframe 
 Day 6:  -->Numpy arrays and Vectors theories
 Day 7:  -->matplotlib
+day 8:  -->matplotlib,pandas
