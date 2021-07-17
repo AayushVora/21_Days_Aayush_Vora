@@ -13,3 +13,4 @@ Day 7:  -->matplotlib
 day 8:  -->matplotlib,pandas
 day 9:  -->started working with titanic classification project,and revising what i have done so far 
 day 10: -->Working on proejct and clearin some errors.
+day 11: -->working o flask for the project and referring some notes.
