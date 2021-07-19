@@ -15,3 +15,4 @@ day 9:  -->started working with titanic classification project,and revising what
 day 10: -->Working on proejct and clearin some errors.
 day 11: -->working o flask for the project and referring some notes.
 day 12: -->working on project with flask. 
+day 13: -->learnng linear regression and logic regression
