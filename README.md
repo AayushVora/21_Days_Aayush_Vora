@@ -17,3 +17,12 @@ day 11: -->working o flask for the project and referring some notes.
 day 12: -->working on project with flask. 
 day 13: -->learnng linear regression and logic regression
 Day 14: -->learning logical regression and bayes algo.
+Day 15: -->implementing above mentioned algos.
+
+
+
+
+
+
+
+
