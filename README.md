@@ -21,7 +21,7 @@ Day 15: -->implementing above mentioned algos.
 Day 16: -->working with python and numpy.
 Day 17: -->working with python and numpy.
 Day 18: -->working with python,numpy and matplotlib
-
+Day 19: -->learning with pandas.
 
 
 
